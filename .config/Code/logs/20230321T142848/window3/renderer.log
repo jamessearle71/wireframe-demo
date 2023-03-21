@@ -1,0 +1,260 @@
+2023-03-21 15:50:46.882 [info] [perf] Render performance baseline is 355ms
+2023-03-21 15:51:01.580 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:51:05.197 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:51:12.464 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:51:14.009 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:51:20.461 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:51:26.238 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:51:38.618 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:51:41.084 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:52:16.003 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:52:23.141 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:52:28.941 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:52:32.666 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:52:39.039 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:52:42.701 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:52:50.201 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:53:03.713 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:53:09.136 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:53:15.067 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:53:15.070 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:53:20.953 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:53:21.198 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:53:33.351 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:53:33.363 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:54:08.561 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:54:08.563 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:54:55.955 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:54:59.087 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:55:14.295 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:55:17.793 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:55:23.800 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:55:24.274 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:55:30.132 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:55:31.777 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:55:38.124 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:55:40.352 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:55:47.012 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:55:49.706 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:55:54.871 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:55:55.237 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:56:29.493 [error] Unable to find matching pair for < at char 665: Error: Unable to find matching pair for < at char 665
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 15:56:35.931 [error] Unable to find matching pair for < at char 677: Error: Unable to find matching pair for < at char 677
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 15:56:48.068 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:56:48.205 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:57:17.832 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:57:17.833 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:57:28.810 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:57:30.099 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:57:37.504 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:57:37.616 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:57:43.085 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:57:43.997 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:57:55.880 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:57:55.881 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:58:01.674 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:58:02.993 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:58:15.533 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:58:15.573 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:58:21.622 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:58:24.445 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 15:58:56.158 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 15:58:56.163 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:01:58.486 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:02:04.831 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:02:10.425 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:02:12.902 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:02:20.520 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:02:28.124 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:02:44.212 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:02:51.150 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:02:58.326 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:03:24.534 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:03:30.737 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:03:36.044 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:03:40.267 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:03:48.912 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:03:53.765 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:04:01.161 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:04:05.429 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:04:30.321 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:04:30.322 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:04:43.985 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:04:51.069 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:04:56.966 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:05:03.495 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:05:13.960 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:06:40.517 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:06:48.155 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:06:54.396 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:06:59.546 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:07:07.710 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:07:12.681 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:07:21.111 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:07:23.569 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:07:28.939 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:07:34.601 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:07:43.295 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:07:45.477 [error] Error: Aborted onWillSaveTextDocument-event after 1750ms
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1884:13638
+2023-03-21 16:07:49.251 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:07:55.214 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:07:57.742 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:08:20.246 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:09:01.456 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:09:07.255 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:09:13.711 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:09:19.352 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:09:27.717 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:09:33.899 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:09:42.781 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:09:45.965 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:09:55.201 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:10:43.452 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:10:59.448 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:11:05.501 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:11:13.725 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:11:24.847 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:11:25.174 [error] Git error
+2023-03-21 16:11:33.546 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:11:51.288 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:11:57.087 [warning] UNRESPONSIVE extension host: 'vscode.git' took 16.88056573600713% of 847.215ms, saved PROFILE here: 'file:///tmp/exthost-077cd7.cpuprofile'
+2023-03-21 16:12:08.488 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:12:10.775 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:12:17.082 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:12:21.268 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:12:29.070 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:13:59.485 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:14:14.407 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:14:15.288 [error] Error: Aborted onWillSaveTextDocument-event after 1750ms
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1884:13638
+2023-03-21 16:14:29.790 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:14:38.166 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:14:46.039 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:15:01.864 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:15:08.045 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:15:15.881 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:15:18.452 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:15:25.251 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:15:29.342 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:15:36.272 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:15:39.932 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:15:48.209 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:15:54.198 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:16:03.334 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:16:08.325 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:16:18.021 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:16:23.580 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:16:36.158 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:17:01.585 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:17:15.247 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:17:19.596 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:17:25.052 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:17:28.857 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:17:35.236 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:17:58.392 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:18:01.121 [warning] UNRESPONSIVE extension host: 'vscode.git' took 15.588631484585834% of 3578.778ms, saved PROFILE here: 'file:///tmp/exthost-c7723a.cpuprofile'
+2023-03-21 16:18:06.945 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:18:12.064 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:18:47.162 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:19:03.877 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:19:33.007 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:21:26.274 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:21:50.524 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:22:10.888 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:22:16.848 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:22:23.893 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:22:29.114 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:22:36.387 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:22:41.232 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:22:47.464 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:22:51.690 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:22:59.888 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:23:04.559 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:23:10.624 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:23:15.754 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:23:22.235 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:23:24.464 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:23:30.632 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:23:34.745 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:23:40.905 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:23:43.360 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:23:49.397 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:23:55.420 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:24:02.069 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:24:04.718 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:24:12.690 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:24:18.523 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:24:25.826 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:24:29.810 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:24:37.982 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:24:43.417 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 16:25:03.190 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:26:11.398 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2023-03-21 16:26:16.604 [info] [lifecycle]: Shutdown was prevented by final veto (id: veto.backups)
+2023-03-21 16:26:33.351 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 16:27:14.979 [info] UNRESPONSIVE extension host: starting to profile NOW

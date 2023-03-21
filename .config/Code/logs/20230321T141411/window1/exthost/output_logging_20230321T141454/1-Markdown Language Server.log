@@ -1,0 +1,617 @@
+[Trace 14:15:15.740] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:15:15.765] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:15:15.797] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:15.798] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:15.799] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:15:15.800] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:15:15.824] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:15:15.830] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:15.832] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:15:15.837] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Trace 14:15:15.841] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Trace 14:15:15.847] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Trace 14:15:15.847] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-03.md
+[Trace 14:15:15.847] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-04.md
+[Trace 14:15:15.848] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-05.md
+[Trace 14:15:15.849] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-06.md
+[Trace 14:15:15.849] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-07.md
+[Trace 14:15:15.849] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-08.md
+[Trace 14:15:15.850] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-09.md
+[Trace 14:15:15.850] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-10.md
+[Trace 14:15:15.851] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-11.md
+[Trace 14:15:15.868] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-12.md
+[Trace 14:15:15.868] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-13.md
+[Trace 14:15:15.868] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-14.md
+[Trace 14:15:15.884] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-15.md
+[Trace 14:15:15.884] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-01.md
+[Trace 14:15:15.884] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:15:15.885] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-05.md
+[Trace 14:15:15.885] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-06.md
+[Trace 14:15:15.886] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-07.md
+[Debug 14:15:17.523] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:15:17.654] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:15:17.809] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:17.837] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:15:19.642] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Debug 14:15:20.270] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md 1
+[Debug 14:15:20.272] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:15:20.488] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Trace 14:15:22.198] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Trace 14:15:22.786] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-03.md
+[Trace 14:15:22.818] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:15:22.846] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:23.030] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:15:23.827] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-04.md
+[Trace 14:15:24.646] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-05.md
+[Debug 14:15:24.665] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:24.677] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Debug 14:15:24.805] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 1
+[Debug 14:15:24.805] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:24.867] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Trace 14:15:25.143] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Trace 14:15:25.537] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-06.md
+[Trace 14:15:25.949] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Trace 14:15:26.151] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-07.md
+[Trace 14:15:26.407] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-08.md
+[Trace 14:15:26.628] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-09.md
+[Trace 14:15:26.839] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-10.md
+[Trace 14:15:27.043] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-11.md
+[Trace 14:15:27.355] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-12.md
+[Trace 14:15:27.710] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-13.md
+[Trace 14:15:28.136] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-14.md
+[Trace 14:15:28.339] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-15.md
+[Trace 14:15:28.545] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-01.md
+[Trace 14:15:28.752] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:15:28.955] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-05.md
+[Trace 14:15:29.230] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-06.md
+[Trace 14:15:29.428] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-07.md
+[Trace 14:15:29.628] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-03.md
+[Trace 14:15:29.830] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:15:30.038] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-04.md
+[Trace 14:15:30.252] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:15:30.935] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:30.935] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:31.192] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-05.md
+[Trace 14:15:31.389] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Trace 14:15:31.457] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:31.460] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:31.585] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Trace 14:15:31.787] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-06.md
+[Trace 14:15:31.993] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Debug 14:15:32.152] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:32.214] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-07.md
+[Trace 14:15:32.380] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:32.384] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:32.417] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-08.md
+[Trace 14:15:32.619] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-09.md
+[Debug 14:15:32.813] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:32.837] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-10.md
+[Trace 14:15:33.037] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-11.md
+[Trace 14:15:33.118] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:33.118] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:33.241] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-12.md
+[Trace 14:15:33.457] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-13.md
+[Trace 14:15:33.659] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-14.md
+[Trace 14:15:33.868] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-15.md
+[Debug 14:15:33.958] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:34.006] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:34.011] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:34.069] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-01.md
+[Trace 14:15:34.297] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:15:34.506] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-05.md
+[Debug 14:15:34.525] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:34.700] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-06.md
+[Trace 14:15:34.901] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-07.md
+[Trace 14:15:35.080] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:35.093] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:35.112] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-03.md
+[Trace 14:15:35.306] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Debug 14:15:35.445] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:35.510] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-04.md
+[Trace 14:15:35.724] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:15:35.933] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-05.md
+[Trace 14:15:36.155] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:36.158] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:36.159] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Trace 14:15:36.351] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Debug 14:15:36.529] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:36.566] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-06.md
+[Trace 14:15:36.767] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Trace 14:15:36.972] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-07.md
+[Trace 14:15:36.989] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:36.989] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:37.162] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-08.md
+[Debug 14:15:37.356] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:37.383] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:37.387] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:37.404] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-09.md
+[Trace 14:15:37.489] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:37.494] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:37.585] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-10.md
+[Debug 14:15:37.764] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:37.800] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-11.md
+[Trace 14:15:38.006] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-12.md
+[Trace 14:15:38.206] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-13.md
+[Trace 14:15:38.417] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-14.md
+[Trace 14:15:38.621] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-15.md
+[Trace 14:15:38.816] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-01.md
+[Trace 14:15:39.054] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:15:39.262] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-05.md
+[Trace 14:15:39.464] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-06.md
+[Trace 14:15:39.666] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-07.md
+[Trace 14:15:39.867] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-03.md
+[Trace 14:15:40.068] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:15:40.273] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-04.md
+[Trace 14:15:40.500] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:15:40.711] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-05.md
+[Trace 14:15:40.923] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Trace 14:15:41.120] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Trace 14:15:41.329] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-06.md
+[Trace 14:15:41.475] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:41.476] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:41.570] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Trace 14:15:41.797] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-07.md
+[Trace 14:15:42.047] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-08.md
+[Debug 14:15:42.120] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:42.173] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:42.173] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:42.249] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-09.md
+[Trace 14:15:42.453] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-10.md
+[Trace 14:15:42.656] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-11.md
+[Trace 14:15:42.877] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-12.md
+[Trace 14:15:43.073] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-13.md
+[Trace 14:15:43.578] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-14.md
+[Trace 14:15:43.627] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:43.630] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Debug 14:15:43.717] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:43.780] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-15.md
+[Trace 14:15:43.988] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-01.md
+[Trace 14:15:44.206] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:15:44.367] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:44.367] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:44.407] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-05.md
+[Trace 14:15:44.527] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:44.533] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:44.609] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-06.md
+[Trace 14:15:44.717] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:44.742] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:44.828] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:44.828] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:44.830] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-07.md
+[Trace 14:15:44.943] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:44.943] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.022] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-03.md
+[Trace 14:15:45.055] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.056] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.125] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.128] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.227] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:15:45.254] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.254] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.427] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-04.md
+[Trace 14:15:45.468] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.469] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.625] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.626] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.644] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:15:45.719] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.735] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.823] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.828] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.853] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-05.md
+[Trace 14:15:45.916] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.927] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.982] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:45.998] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:46.047] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Trace 14:15:46.102] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:46.103] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:46.136] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:46.142] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:46.300] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Trace 14:15:46.316] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:46.317] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:46.336] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:46.419] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:46.488] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-06.md
+[Trace 14:15:46.600] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:46.600] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:46.692] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Trace 14:15:46.874] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:46.875] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:46.893] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-07.md
+[Trace 14:15:47.027] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:47.028] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:47.190] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-08.md
+[Trace 14:15:47.225] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:47.233] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:47.239] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:47.289] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:47.293] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:47.390] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:47.407] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:47.407] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-09.md
+[Trace 14:15:47.557] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:47.557] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:47.595] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-10.md
+[Trace 14:15:47.759] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:47.775] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:47.800] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-11.md
+[Trace 14:15:48.004] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:48.009] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:48.010] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-12.md
+[Trace 14:15:48.118] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:48.120] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:48.175] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:48.175] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:48.213] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-13.md
+[Trace 14:15:48.238] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:48.243] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:48.333] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:48.334] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:48.532] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-14.md
+[Trace 14:15:48.734] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-15.md
+[Trace 14:15:48.930] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:48.935] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:48.949] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-01.md
+[Trace 14:15:48.989] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:48.996] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:49.004] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:49.016] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:49.306] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:15:49.309] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:49.310] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:49.316] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:49.326] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:49.366] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:49.369] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:49.514] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-05.md
+[Trace 14:15:49.722] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-06.md
+[Trace 14:15:49.886] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:49.886] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:49.923] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-07.md
+[Trace 14:15:50.119] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-03.md
+[Trace 14:15:50.324] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Debug 14:15:50.429] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:50.525] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:50.528] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:50.529] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-04.md
+[Trace 14:15:50.732] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:15:50.929] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 54
+[Debug 14:15:50.930] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:50.933] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-05.md
+[Debug 14:15:51.037] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:51.138] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Trace 14:15:51.344] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Trace 14:15:51.561] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-06.md
+[Trace 14:15:51.758] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Trace 14:15:51.959] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-07.md
+[Trace 14:15:52.162] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-08.md
+[Trace 14:15:52.363] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-09.md
+[Trace 14:15:52.573] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-10.md
+[Trace 14:15:52.767] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-11.md
+[Trace 14:15:52.968] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-12.md
+[Trace 14:15:53.169] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-13.md
+[Trace 14:15:53.370] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-14.md
+[Trace 14:15:53.579] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-15.md
+[Trace 14:15:53.615] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:53.616] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:53.775] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-01.md
+[Trace 14:15:53.784] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:53.793] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:54.005] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:15:54.081] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:54.094] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:54.145] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:54.148] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:54.192] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-05.md
+[Trace 14:15:54.229] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:54.230] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:54.359] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:54.359] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:54.392] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-06.md
+[Trace 14:15:54.407] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:54.407] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:54.430] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:54.430] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:54.594] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-07.md
+[Debug 14:15:54.689] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:54.792] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 62
+[Debug 14:15:54.792] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:54.798] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-03.md
+[Trace 14:15:54.834] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:54.835] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:55.000] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:15:55.098] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:55.099] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:55.206] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-04.md
+[Trace 14:15:55.215] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:55.216] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:55.416] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Debug 14:15:55.481] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:55.576] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 65
+[Debug 14:15:55.576] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:55.619] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-05.md
+[Trace 14:15:55.822] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Trace 14:15:56.023] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Trace 14:15:56.231] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-06.md
+[Trace 14:15:56.428] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Trace 14:15:56.553] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:56.554] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:56.637] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-07.md
+[Trace 14:15:56.785] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:56.786] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:56.922] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-08.md
+[Trace 14:15:56.943] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:56.950] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:57.070] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:57.070] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:57.113] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-09.md
+[Trace 14:15:57.145] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:57.146] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:57.243] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:57.243] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:57.325] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-10.md
+[Trace 14:15:57.368] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:57.368] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:57.425] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:57.425] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:57.524] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-11.md
+[Trace 14:15:57.584] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:57.584] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:57.675] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:57.676] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:57.736] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-12.md
+[Trace 14:15:57.932] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-13.md
+[Debug 14:15:57.942] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:58.039] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 75
+[Debug 14:15:58.039] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:58.134] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-14.md
+[Trace 14:15:58.334] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-15.md
+[Trace 14:15:58.486] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:58.487] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:58.539] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-01.md
+[Trace 14:15:58.697] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:58.697] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:58.740] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:15:58.939] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-05.md
+[Trace 14:15:59.068] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 77
+[Debug 14:15:59.068] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Debug 14:15:59.077] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:15:59.143] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-06.md
+[Trace 14:15:59.350] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-07.md
+[Trace 14:15:59.553] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-03.md
+[Trace 14:15:59.753] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:15:59.950] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-04.md
+[Trace 14:16:00.156] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:16:00.353] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-05.md
+[Trace 14:16:00.555] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Trace 14:16:00.808] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Trace 14:16:00.985] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-06.md
+[Trace 14:16:01.217] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Trace 14:16:01.399] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-07.md
+[Trace 14:16:01.662] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-08.md
+[Trace 14:16:01.813] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-09.md
+[Trace 14:16:02.023] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-10.md
+[Trace 14:16:02.222] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-11.md
+[Trace 14:16:02.425] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-12.md
+[Trace 14:16:02.630] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-13.md
+[Debug 14:16:02.774] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 77
+[Trace 14:16:02.843] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-14.md
+[Trace 14:16:03.046] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-15.md
+[Trace 14:16:03.187] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:03.187] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:03.248] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-01.md
+[Trace 14:16:03.444] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Debug 14:16:03.488] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:03.568] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 78
+[Debug 14:16:03.568] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:03.653] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-05.md
+[Trace 14:16:03.849] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-06.md
+[Trace 14:16:04.050] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-07.md
+[Trace 14:16:04.250] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-03.md
+[Trace 14:16:04.455] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:16:04.657] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-04.md
+[Trace 14:16:04.857] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:16:05.057] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-05.md
+[Trace 14:16:05.258] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Debug 14:16:05.274] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 78
+[Trace 14:16:05.458] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Trace 14:16:05.660] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-06.md
+[Trace 14:16:05.867] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Trace 14:16:06.062] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-07.md
+[Trace 14:16:06.263] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-08.md
+[Trace 14:16:06.464] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-09.md
+[Trace 14:16:06.665] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-10.md
+[Trace 14:16:06.865] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-11.md
+[Trace 14:16:07.066] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-12.md
+[Trace 14:16:07.280] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-13.md
+[Trace 14:16:07.480] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-14.md
+[Trace 14:16:07.682] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-15.md
+[Trace 14:16:11.246] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:11.247] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:11.488] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-01.md
+[Trace 14:16:11.587] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:11.588] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:11.700] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:16:11.902] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-05.md
+[Trace 14:16:12.025] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 80
+[Debug 14:16:12.025] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Debug 14:16:12.064] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:12.109] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-06.md
+[Trace 14:16:12.312] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-07.md
+[Trace 14:16:12.509] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-03.md
+[Trace 14:16:12.732] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:16:12.927] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-04.md
+[Debug 14:16:12.974] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 80
+[Trace 14:16:13.132] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:16:13.335] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-05.md
+[Trace 14:16:13.534] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Trace 14:16:13.735] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Trace 14:16:13.943] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-06.md
+[Trace 14:16:14.145] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Trace 14:16:14.347] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-07.md
+[Trace 14:16:14.548] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-08.md
+[Trace 14:16:14.749] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-09.md
+[Trace 14:16:14.958] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-10.md
+[Trace 14:16:15.166] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-11.md
+[Trace 14:16:15.360] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-12.md
+[Trace 14:16:15.564] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-13.md
+[Trace 14:16:15.764] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-14.md
+[Trace 14:16:15.965] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-15.md
+[Trace 14:16:16.170] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-01.md
+[Trace 14:16:17.894] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:17.894] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:18.082] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:18.087] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:18.102] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:16:18.307] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-05.md
+[Trace 14:16:18.442] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 82
+[Debug 14:16:18.443] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Debug 14:16:18.448] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:18.507] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-06.md
+[Trace 14:16:18.708] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-07.md
+[Trace 14:16:18.910] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-03.md
+[Trace 14:16:19.114] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Debug 14:16:19.165] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 82
+[Trace 14:16:19.312] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-04.md
+[Trace 14:16:19.514] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:16:19.716] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-05.md
+[Trace 14:16:19.917] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Trace 14:16:20.132] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Trace 14:16:20.324] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-06.md
+[Trace 14:16:20.533] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Trace 14:16:20.732] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-07.md
+[Trace 14:16:20.918] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:20.919] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:20.935] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-08.md
+[Trace 14:16:21.063] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:21.064] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:21.142] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-09.md
+[Trace 14:16:21.344] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-10.md
+[Trace 14:16:21.431] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 84
+[Debug 14:16:21.431] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Debug 14:16:21.436] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:21.543] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-11.md
+[Trace 14:16:21.746] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-12.md
+[Debug 14:16:21.928] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 84
+[Trace 14:16:21.947] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-13.md
+[Trace 14:16:22.148] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-14.md
+[Trace 14:16:22.350] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-15.md
+[Trace 14:16:22.555] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-01.md
+[Trace 14:16:22.755] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:16:22.957] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-05.md
+[Trace 14:16:23.162] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-06.md
+[Trace 14:16:23.359] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-07.md
+[Trace 14:16:23.564] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-03.md
+[Trace 14:16:23.773] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:16:23.968] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-04.md
+[Trace 14:16:24.169] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:16:24.373] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-05.md
+[Trace 14:16:24.572] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Trace 14:16:24.772] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Trace 14:16:24.973] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-06.md
+[Trace 14:16:25.174] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Trace 14:16:25.375] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-07.md
+[Trace 14:16:25.576] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-08.md
+[Trace 14:16:25.776] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:25.777] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:25.983] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:25.984] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:25.994] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-09.md
+[Trace 14:16:26.198] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-10.md
+[Trace 14:16:26.333] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 86
+[Debug 14:16:26.334] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Debug 14:16:26.338] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:26.395] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-11.md
+[Trace 14:16:26.596] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-12.md
+[Debug 14:16:26.699] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 86
+[Trace 14:16:26.796] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-13.md
+[Trace 14:16:27.009] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-14.md
+[Trace 14:16:27.199] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-15.md
+[Trace 14:16:27.403] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-01.md
+[Trace 14:16:27.603] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:16:27.809] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-05.md
+[Trace 14:16:28.008] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-06.md
+[Trace 14:16:28.212] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-07.md
+[Trace 14:16:28.413] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-03.md
+[Trace 14:16:28.616] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:16:28.823] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-04.md
+[Trace 14:16:29.017] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:16:29.068] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:29.068] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:29.227] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-05.md
+[Trace 14:16:29.250] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:29.256] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:29.426] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Debug 14:16:29.460] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 88
+[Debug 14:16:29.460] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:29.614] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 88
+[Debug 14:16:29.616] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:29.628] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Trace 14:16:29.827] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-06.md
+[Trace 14:16:30.029] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Trace 14:16:30.230] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-07.md
+[Trace 14:16:30.433] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-08.md
+[Trace 14:16:30.633] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-09.md
+[Trace 14:16:30.834] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-10.md
+[Trace 14:16:31.035] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-11.md
+[Trace 14:16:31.237] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-12.md
+[Trace 14:16:31.438] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-13.md
+[Trace 14:16:31.640] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-14.md
+[Trace 14:16:31.840] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-15.md
+[Trace 14:16:32.044] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-01.md
+[Trace 14:16:32.243] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:16:32.443] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-05.md
+[Trace 14:16:32.643] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-06.md
+[Trace 14:16:32.844] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-07.md
+[Trace 14:16:33.046] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-03.md
+[Trace 14:16:33.246] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:16:33.447] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-04.md
+[Trace 14:16:33.648] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:16:33.850] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-05.md
+[Trace 14:16:37.423] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:47.028] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:49.329] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Trace 14:16:49.345] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:16:49.345] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:16:49.348] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:16:49.457] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:16:49.488] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md 1
+[Debug 14:16:49.488] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:16:49.560] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Debug 14:16:49.575] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md
+[Trace 14:16:49.772] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-06.md
+[Trace 14:16:50.059] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Debug 14:16:50.113] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md 1
+[Trace 14:16:50.262] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-07.md
+[Trace 14:16:50.488] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-08.md
+[Trace 14:16:50.696] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-09.md
+[Trace 14:16:50.897] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-10.md
+[Debug 14:16:51.066] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:51.256] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:51.256] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-11.md
+[Trace 14:16:51.459] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-12.md
+[Debug 14:16:51.633] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 88
+[Debug 14:16:51.633] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 14:16:51.668] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-13.md
+[Trace 14:16:51.870] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-14.md
+[Trace 14:16:52.106] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-15.md
+[Trace 14:16:52.274] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-01.md
+[Trace 14:16:52.475] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-05.md
+[Trace 14:16:52.692] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-06.md
+[Trace 14:16:52.886] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-07.md
+[Trace 14:16:53.088] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-03.md
+[Trace 14:16:53.293] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/README.md
+[Trace 14:16:53.493] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-04.md
+[Trace 14:16:53.703] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 14:16:53.902] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-05.md
+[Trace 14:16:54.099] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-08.md
+[Trace 14:16:54.299] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-01.md
+[Trace 14:16:54.503] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-06.md
+[Trace 14:16:54.717] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-02.md
+[Trace 14:16:54.917] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-07.md
+[Trace 14:16:55.122] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-08.md
+[Trace 14:16:55.324] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-09.md
+[Trace 14:16:55.524] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-201/201class-10.md
+[Trace 14:16:55.732] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-04.md

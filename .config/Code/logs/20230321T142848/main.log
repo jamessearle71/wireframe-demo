@@ -1,0 +1,23 @@
+2023-03-21 14:28:50.679 [info] update#setState idle
+2023-03-21 14:29:00.344 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-21 14:29:00.490 [info] [UtilityProcess id: 1, type: extensionHost, pid: 2682]: successfully created
+2023-03-21 14:29:20.998 [info] update#setState checking for updates
+2023-03-21 14:29:22.999 [info] update#setState idle
+2023-03-21 15:29:21.232 [info] update#setState checking for updates
+2023-03-21 15:29:21.768 [info] update#setState idle
+2023-03-21 15:50:30.870 [info] [UtilityProcess id: 2, type: extensionHost, pid: <none>]: creating new...
+2023-03-21 15:50:30.951 [info] [UtilityProcess id: 2, type: extensionHost, pid: 4801]: successfully created
+2023-03-21 15:50:51.966 [info] [UtilityProcess id: 2, type: extensionHost, pid: 4801]: enabling inspect port
+2023-03-21 16:26:24.639 [info] [UtilityProcess id: 1, type: extensionHost, pid: 2682]: received exit event with code 0
+2023-03-21 16:26:24.672 [info] Extension host with pid 2682 exited with code: 0, signal: unknown.
+2023-03-21 16:27:16.770 [info] [UtilityProcess id: 3, type: extensionHost, pid: <none>]: creating new...
+2023-03-21 16:27:16.914 [info] [UtilityProcess id: 3, type: extensionHost, pid: 8641]: successfully created
+2023-03-21 16:29:21.338 [info] update#setState checking for updates
+2023-03-21 16:29:21.564 [info] update#setState idle
+2023-03-21 16:29:47.549 [info] [UtilityProcess id: 3, type: extensionHost, pid: 8641]: received exit event with code 0
+2023-03-21 16:29:47.561 [info] Extension host with pid 8641 exited with code: 0, signal: unknown.
+2023-03-21 17:29:20.118 [info] update#setState checking for updates
+2023-03-21 17:29:21.598 [info] update#setState idle
+2023-03-21 18:15:22.001 [info] [UtilityProcess id: 4, type: extensionHost, pid: <none>]: creating new...
+2023-03-21 18:15:22.579 [info] [UtilityProcess id: 4, type: extensionHost, pid: 9449]: successfully created
+2023-03-21 18:15:39.515 [info] [UtilityProcess id: 4, type: extensionHost, pid: 9449]: enabling inspect port

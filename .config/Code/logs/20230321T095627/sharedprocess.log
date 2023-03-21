@@ -1,0 +1,5 @@
+2023-03-21 09:56:40.167 [info] Starting worker process with pid 20454 (type: fileWatcher, window: 1).
+2023-03-21 09:56:41.773 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-21 09:56:51.977 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-03-21 09:56:52.003 [info] Worker process with pid 20454 terminated normally (type: fileWatcher, window: 1).
+2023-03-21 09:56:52.014 [info] Starting worker process with pid 20498 (type: fileWatcher, window: 1).

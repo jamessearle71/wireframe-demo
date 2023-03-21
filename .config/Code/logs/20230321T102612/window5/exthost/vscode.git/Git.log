@@ -1,0 +1,66 @@
+2023-03-21 11:06:11.085 [info] Log level: Info
+2023-03-21 11:06:11.085 [info] Validating found git in: "git"
+2023-03-21 11:06:11.085 [info] Using git "2.30.2" from "git"
+2023-03-21 11:06:11.085 [info] > git rev-parse --show-toplevel [244ms]
+2023-03-21 11:06:11.085 [info] > git rev-parse --git-dir --git-common-dir [18ms]
+2023-03-21 11:06:11.086 [info] Open repository: /home/jamessearle71/Projects2/reading-notes
+2023-03-21 11:06:11.086 [info] > git config --get commit.template [67ms]
+2023-03-21 11:06:11.086 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [103ms]
+2023-03-21 11:06:11.086 [info] > git status -z -uall [45ms]
+2023-03-21 11:06:11.086 [info] > git config --get commit.template [163ms]
+2023-03-21 11:06:11.086 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [31ms]
+2023-03-21 11:06:11.086 [info] > git status -z -uall [21ms]
+2023-03-21 11:06:11.086 [info] > git check-ignore -v -z --stdin [194ms]
+2023-03-21 11:06:20.787 [info] > git show --textconv :README.md [550ms]
+2023-03-21 11:06:20.805 [info] > git ls-files --stage -- /home/jamessearle71/Projects2/reading-notes/README.md [474ms]
+2023-03-21 11:06:20.898 [info] > git cat-file -s bf32fccec92615a320bbd2f80147de1872787df1 [73ms]
+2023-03-21 11:07:12.081 [info] Log level: Info
+2023-03-21 11:07:12.081 [info] Validating found git in: "git"
+2023-03-21 11:07:12.081 [info] Using git "2.30.2" from "git"
+2023-03-21 11:07:12.081 [info] > git rev-parse --show-toplevel [28ms]
+2023-03-21 11:07:12.081 [info] > git rev-parse --git-dir --git-common-dir [14ms]
+2023-03-21 11:07:12.081 [info] Open repository: /home/jamessearle71/Projects/reading-notes-v1
+2023-03-21 11:07:12.081 [info] > git rev-parse --show-toplevel [155ms]
+2023-03-21 11:07:12.081 [info] > git config --get commit.template [85ms]
+2023-03-21 11:07:12.081 [info] > git rev-parse --git-dir --git-common-dir [38ms]
+2023-03-21 11:07:12.082 [info] Open repository: /home/jamessearle71/Projects/reading-notes-v1/reading-notes-v1
+2023-03-21 11:07:12.082 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [117ms]
+2023-03-21 11:07:12.082 [info] > git config --get commit.template [95ms]
+2023-03-21 11:07:12.082 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [30ms]
+2023-03-21 11:07:12.082 [info] > git status -z -uall [17ms]
+2023-03-21 11:07:12.082 [info] > git status -z -uall [186ms]
+2023-03-21 11:07:12.082 [info] > git check-ignore -v -z --stdin [64ms]
+2023-03-21 11:07:17.327 [info] > git show --textconv :README.md [107ms]
+2023-03-21 11:07:17.449 [info] > git ls-files --stage -- /home/jamessearle71/Projects/reading-notes-v1/reading-notes-v1/README.md [123ms]
+2023-03-21 11:07:17.534 [info] > git cat-file -s 9d812005570d3008f698adfe454feb9411b6246e [32ms]
+2023-03-21 11:08:12.175 [info] Log level: Info
+2023-03-21 11:08:12.175 [info] Validating found git in: "git"
+2023-03-21 11:08:12.175 [info] Using git "2.30.2" from "git"
+2023-03-21 11:08:12.175 [info] > git rev-parse --show-toplevel [84ms]
+2023-03-21 11:08:12.175 [info] > git rev-parse --git-dir --git-common-dir [59ms]
+2023-03-21 11:08:12.175 [info] Open repository: /home/jamessearle71/Projects2/reading-notes
+2023-03-21 11:08:12.175 [info] > git config --get commit.template [210ms]
+2023-03-21 11:08:12.175 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [390ms]
+2023-03-21 11:08:12.175 [info] > git status -z -uall [27ms]
+2023-03-21 11:08:12.175 [info] > git check-ignore -v -z --stdin [45ms]
+2023-03-21 11:08:16.835 [info] > git show --textconv :README.md [516ms]
+2023-03-21 11:08:16.837 [info] > git ls-files --stage -- /home/jamessearle71/Projects2/reading-notes/README.md [430ms]
+2023-03-21 11:08:17.079 [info] > git cat-file -s bf32fccec92615a320bbd2f80147de1872787df1 [168ms]
+2023-03-21 11:08:34.068 [info] > git check-ignore -v -z --stdin [11ms]
+2023-03-21 11:08:34.527 [info] > git config --get commit.template [7ms]
+2023-03-21 11:08:34.589 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2023-03-21 11:08:34.632 [info] > git status -z -uall [12ms]
+2023-03-21 11:08:46.232 [info] > git check-ignore -v -z --stdin [33ms]
+2023-03-21 11:08:46.818 [info] > git config --get commit.template [40ms]
+2023-03-21 11:08:46.906 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [35ms]
+2023-03-21 11:08:47.022 [info] > git status -z -uall [46ms]
+2023-03-21 11:08:58.727 [info] > git check-ignore -v -z --stdin [17ms]
+2023-03-21 11:08:59.220 [info] > git config --get commit.template [7ms]
+2023-03-21 11:08:59.256 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-03-21 11:08:59.287 [info] > git status -z -uall [4ms]
+2023-03-21 11:09:27.086 [info] > git config --get commit.template [79ms]
+2023-03-21 11:09:27.088 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [32ms]
+2023-03-21 11:09:27.147 [info] > git status -z -uall [13ms]
+2023-03-21 11:09:35.770 [info] > git config --get commit.template [14ms]
+2023-03-21 11:09:35.809 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2023-03-21 11:09:35.854 [info] > git status -z -uall [14ms]

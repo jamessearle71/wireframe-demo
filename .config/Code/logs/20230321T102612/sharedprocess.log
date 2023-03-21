@@ -1,0 +1,12 @@
+2023-03-21 10:26:32.111 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-21 10:26:36.745 [info] Starting worker process with pid 23631 (type: fileWatcher, window: 1).
+2023-03-21 10:26:37.796 [info] Starting worker process with pid 23639 (type: fileWatcher, window: 2).
+2023-03-21 10:28:00.321 [info] Worker process with pid 23639 terminated normally (type: fileWatcher, window: 2).
+2023-03-21 11:05:42.208 [info] Starting worker process with pid 25563 (type: fileWatcher, window: 4).
+2023-03-21 11:05:51.377 [info] Worker process with pid 25563 terminated normally (type: fileWatcher, window: 4).
+2023-03-21 11:05:55.609 [info] Starting worker process with pid 25592 (type: fileWatcher, window: 5).
+2023-03-21 11:06:28.347 [info] Worker process with pid 23631 terminated normally (type: fileWatcher, window: 1).
+2023-03-21 11:06:40.360 [info] Worker process with pid 25592 terminated normally (type: fileWatcher, window: 5).
+2023-03-21 11:06:48.145 [info] Starting worker process with pid 25663 (type: fileWatcher, window: 5).
+2023-03-21 11:07:44.022 [info] Worker process with pid 25663 terminated normally (type: fileWatcher, window: 5).
+2023-03-21 11:07:53.137 [info] Starting worker process with pid 25730 (type: fileWatcher, window: 5).

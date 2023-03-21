@@ -1,0 +1,5 @@
+[Trace 10:26:42.455] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jamessearle71/demos/git-github-demo/README.md
+[Trace 10:26:42.469] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/demos/git-github-demo/README.md
+[Trace 10:26:42.507] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/demos/git-github-demo/README.md
+[Trace 10:26:43.104] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/demos/git-github-demo/README.md
+[Trace 10:26:43.327] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/demos/git-github-demo/README.md

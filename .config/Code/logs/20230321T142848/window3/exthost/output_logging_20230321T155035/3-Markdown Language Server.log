@@ -1,0 +1,10 @@
+[Trace 16:11:58.060] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jamessearle71/Wireframe/wireframe-demo/README.md
+[Trace 16:11:58.071] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Wireframe/wireframe-demo/README.md
+[Trace 16:11:58.102] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Wireframe/wireframe-demo/README.md
+[Trace 16:11:58.951] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Wireframe/wireframe-demo/README.md
+[Trace 16:11:59.158] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Wireframe/wireframe-demo/README.md
+[Trace 16:26:00.121] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Wireframe/wireframe-demo/README.md
+[Debug 16:26:00.249] LinkProvider: compute - file:///home/jamessearle71/Wireframe/wireframe-demo/README.md
+[Trace 16:26:00.263] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Wireframe/wireframe-demo/README.md 1
+[Debug 16:26:07.280] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Wireframe/wireframe-demo/README.md 1
+[Debug 16:26:07.324] TableOfContentsProvider: create - file:///home/jamessearle71/Wireframe/wireframe-demo/README.md

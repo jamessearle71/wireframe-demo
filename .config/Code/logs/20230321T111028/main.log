@@ -1,0 +1,2 @@
+2023-03-21 11:10:29.141 [info] update#setState idle
+2023-03-21 11:10:31.060 [error] Blocked vscode-file request vscode-file://vscode-app/usr/share/code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.js

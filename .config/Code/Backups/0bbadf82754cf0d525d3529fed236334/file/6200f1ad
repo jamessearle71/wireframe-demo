@@ -1,0 +1,42 @@
+file:///home/jamessearle71/Wireframe/index.html {"mtime":1679415255320,"ctime":1679413818216,"size":1790,"etag":"3aab4n8o31qn","orphaned":false,"typeId":""}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Doggles: Eyewear For Dogs</h1>
+        <nav>
+            <ul>
+                <li><a href="/">Link 1</a></li>
+                <li><a href="/">Link 2</a></li>
+                <li><a href="/">Link 3</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <img src="https://via.placeholder.com/960x640.png?text=Doggles:+Eyewear+For+Dogs" alt="Doggles eyewear dogs shop store" />
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusamus minima obcaecati quam reprehenderit ipsam quo animi in quae, odio exercitationem consectetur nesciunt aliquid, illum adipisci? Iure id quos, nisi voluptatum fugiat non possimus minima veritatis expedita culpa nobis accusamus sit qui laboriosam est magnam ut libero aliquam assumenda inventore amet!</p>
+    </main>
+    <body>
+        <section>
+            <img src="https://via.placeholder.com/960x640.png?text=Doggles+Pic+1" alt="Doggles 1" />
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+        </section>
+        <section>
+            <img src="https://via.placeholder.com/960x640.png?text=Doggles+Pic+2" alt="Doggles 2" />
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+        </section>
+        <section>
+            <img src="https://via.placeholder.com/960x640.png?text=Doggles+Pic+3" alt="Doggles 3" />
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+        </section>
+    </body>
+    <footers>
+<p> Website by James Searle </p>
+    </footers>
+</html>

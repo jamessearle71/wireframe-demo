@@ -1,0 +1,12 @@
+2023-03-21 18:15:38.892 [info] [perf] Render performance baseline is 495ms
+2023-03-21 18:15:40.631 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 18:15:42.156 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 18:15:44.295 [warning] UNRESPONSIVE extension host: 'dsznajder.es7-react-js-snippets' took 38.45815467416314% of 595.373ms, saved PROFILE here: 'file:///tmp/exthost-7a377d.cpuprofile'
+2023-03-21 18:16:42.493 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 18:16:50.822 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 18:17:09.763 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 18:17:15.396 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 18:17:22.350 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 18:17:25.328 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 18:17:33.122 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 18:17:40.613 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session

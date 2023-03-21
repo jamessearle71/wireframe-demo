@@ -1,0 +1,15 @@
+2023-03-21 14:29:09.479 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-21 14:29:21.788 [info] Starting worker process with pid 2936 (type: fileWatcher, window: 1).
+2023-03-21 14:54:10.820 [info] Getting Manifest... ritwickdey.liveserver
+2023-03-21 14:54:10.887 [info] Installing extension: ritwickdey.liveserver
+2023-03-21 14:55:20.759 [info] Extension signature verification: ritwickdey.liveserver. Verification status: Verified.
+2023-03-21 14:55:57.009 [info] Extracted extension to /home/jamessearle71/.vscode/extensions/.d9e45b10-6db5-4365-991b-bbd05fe8651f: ritwickdey.liveserver
+2023-03-21 14:55:57.070 [info] Renamed to /home/jamessearle71/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2023-03-21 14:55:57.100 [info] Extracting extension completed. ritwickdey.liveserver
+2023-03-21 14:55:57.268 [info] Extension installed successfully: ritwickdey.liveserver
+2023-03-21 15:50:31.164 [info] Starting worker process with pid 4802 (type: fileWatcher, window: 3).
+2023-03-21 16:26:22.913 [info] Worker process with pid 2936 terminated normally (type: fileWatcher, window: 1).
+2023-03-21 16:27:17.554 [info] Starting worker process with pid 8642 (type: fileWatcher, window: 4).
+2023-03-21 16:29:43.327 [info] Worker process with pid 8642 terminated normally (type: fileWatcher, window: 4).
+2023-03-21 18:04:05.757 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-21 18:15:22.839 [info] Starting worker process with pid 9450 (type: fileWatcher, window: 5).

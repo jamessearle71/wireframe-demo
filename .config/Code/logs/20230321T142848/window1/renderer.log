@@ -1,0 +1,2 @@
+2023-03-21 14:30:05.644 [info] [perf] Render performance baseline is 472ms
+2023-03-21 14:54:05.818 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}

@@ -1,0 +1,17 @@
+2023-03-21 11:12:15.390 [info] update#setState idle
+2023-03-21 11:12:26.016 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-21 11:12:26.455 [info] [UtilityProcess id: 1, type: extensionHost, pid: 26387]: successfully created
+2023-03-21 11:12:29.261 [info] [UtilityProcess id: 2, type: extensionHost, pid: <none>]: creating new...
+2023-03-21 11:12:29.642 [info] [UtilityProcess id: 2, type: extensionHost, pid: 26403]: successfully created
+2023-03-21 11:12:45.417 [info] update#setState checking for updates
+2023-03-21 11:12:45.530 [info] update#setState idle
+2023-03-21 12:12:45.429 [info] update#setState checking for updates
+2023-03-21 12:12:45.536 [info] update#setState idle
+2023-03-21 13:12:45.452 [info] update#setState checking for updates
+2023-03-21 13:12:46.731 [info] update#setState idle
+2023-03-21 13:29:43.884 [info] [UtilityProcess id: 2, type: extensionHost, pid: 26403]: enabling inspect port
+2023-03-21 13:37:19.010 [info] [UtilityProcess id: 1, type: extensionHost, pid: 26387]: received exit event with code 0
+2023-03-21 13:37:19.087 [info] Extension host with pid 26387 exited with code: 0, signal: unknown.
+2023-03-21 13:39:21.845 [info] [UtilityProcess id: 2, type: extensionHost, pid: 26403]: waiting to exit...
+2023-03-21 13:39:22.367 [info] [UtilityProcess id: 2, type: extensionHost, pid: 26403]: received exit event with code 0
+2023-03-21 13:39:22.368 [info] Extension host with pid 26403 exited with code: 0, signal: unknown.

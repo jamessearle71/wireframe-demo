@@ -1,0 +1,46 @@
+2023-03-21 11:12:40.735 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-21 11:13:19.049 [info] Starting worker process with pid 26473 (type: fileWatcher, window: 2).
+2023-03-21 11:13:19.051 [info] Starting worker process with pid 26474 (type: fileWatcher, window: 1).
+2023-03-21 13:27:28.083 [info] Getting Manifest... aaron-bond.better-comments
+2023-03-21 13:27:28.219 [info] Installing extension: aaron-bond.better-comments
+2023-03-21 13:27:39.193 [info] Getting Manifest... usernamehw.errorlens
+2023-03-21 13:27:39.288 [info] Installing extension: usernamehw.errorlens
+2023-03-21 13:28:01.113 [info] Getting Manifest... dsznajder.es7-react-js-snippets
+2023-03-21 13:28:01.247 [info] Installing extension: dsznajder.es7-react-js-snippets
+2023-03-21 13:28:12.381 [info] Getting Manifest... oderwat.indent-rainbow
+2023-03-21 13:28:12.510 [info] Installing extension: oderwat.indent-rainbow
+2023-03-21 13:28:27.224 [info] Getting Manifest... esbenp.prettier-vscode
+2023-03-21 13:28:27.397 [info] Installing extension: esbenp.prettier-vscode
+2023-03-21 13:28:47.445 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2023-03-21 13:28:47.542 [info] Installing extension: vscode-icons-team.vscode-icons
+2023-03-21 13:28:53.480 [info] Extension signature verification: aaron-bond.better-comments. Verification status: Verified.
+2023-03-21 13:28:55.483 [info] Extracted extension to /home/jamessearle71/.vscode/extensions/.22b9af65-bef8-4886-9d99-439ff60d296b: aaron-bond.better-comments
+2023-03-21 13:28:55.551 [info] Renamed to /home/jamessearle71/.vscode/extensions/aaron-bond.better-comments-3.0.2
+2023-03-21 13:28:55.573 [info] Extracting extension completed. aaron-bond.better-comments
+2023-03-21 13:28:55.783 [info] Extension installed successfully: aaron-bond.better-comments
+2023-03-21 13:28:56.428 [info] Extension signature verification: usernamehw.errorlens. Verification status: Verified.
+2023-03-21 13:28:59.106 [info] Extracted extension to /home/jamessearle71/.vscode/extensions/.38c5337a-80b6-4f3c-8f9e-840c96e9e8a5: usernamehw.errorlens
+2023-03-21 13:28:59.202 [info] Renamed to /home/jamessearle71/.vscode/extensions/usernamehw.errorlens-3.8.0
+2023-03-21 13:28:59.286 [info] Extracting extension completed. usernamehw.errorlens
+2023-03-21 13:28:59.644 [info] Extension installed successfully: usernamehw.errorlens
+2023-03-21 13:29:22.800 [info] Extension signature verification: dsznajder.es7-react-js-snippets. Verification status: Verified.
+2023-03-21 13:29:31.225 [info] Extracted extension to /home/jamessearle71/.vscode/extensions/.978947d5-d63b-45b8-9854-1d9c3ad3bd6a: dsznajder.es7-react-js-snippets
+2023-03-21 13:29:31.244 [info] Renamed to /home/jamessearle71/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3
+2023-03-21 13:29:31.259 [info] Extracting extension completed. dsznajder.es7-react-js-snippets
+2023-03-21 13:29:31.344 [info] Extension installed successfully: dsznajder.es7-react-js-snippets
+2023-03-21 13:29:39.020 [info] Extension signature verification: oderwat.indent-rainbow. Verification status: Verified.
+2023-03-21 13:29:48.206 [info] Extension signature verification: esbenp.prettier-vscode. Verification status: Verified.
+2023-03-21 13:29:52.173 [info] Extracted extension to /home/jamessearle71/.vscode/extensions/.fbece33f-a1fb-43c6-9f55-2e1d5c9e3680: esbenp.prettier-vscode
+2023-03-21 13:29:52.241 [info] Renamed to /home/jamessearle71/.vscode/extensions/esbenp.prettier-vscode-9.10.4
+2023-03-21 13:29:52.277 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-03-21 13:29:52.451 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-03-21 13:30:06.384 [info] Extracted extension to /home/jamessearle71/.vscode/extensions/.8acba2af-f36a-419b-a821-05e6de50565e: oderwat.indent-rainbow
+2023-03-21 13:30:06.433 [info] Renamed to /home/jamessearle71/.vscode/extensions/oderwat.indent-rainbow-8.3.1
+2023-03-21 13:30:06.462 [info] Extracting extension completed. oderwat.indent-rainbow
+2023-03-21 13:30:06.737 [info] Extension installed successfully: oderwat.indent-rainbow
+2023-03-21 13:30:17.183 [info] Extension signature verification: vscode-icons-team.vscode-icons. Verification status: Verified.
+2023-03-21 13:30:33.407 [info] Extracted extension to /home/jamessearle71/.vscode/extensions/.5f18f76c-40e7-4104-b7a7-9ef8c880b95b: vscode-icons-team.vscode-icons
+2023-03-21 13:30:33.495 [info] Renamed to /home/jamessearle71/.vscode/extensions/vscode-icons-team.vscode-icons-12.2.0
+2023-03-21 13:30:33.527 [info] Extracting extension completed. vscode-icons-team.vscode-icons
+2023-03-21 13:30:33.739 [info] Extension installed successfully: vscode-icons-team.vscode-icons
+2023-03-21 13:37:19.334 [info] Worker process with pid 26473 terminated normally (type: fileWatcher, window: 2).

@@ -1,0 +1,7 @@
+2023-03-21 09:54:29.709 [info] update#setState idle
+2023-03-21 09:54:37.072 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-21 09:54:37.201 [info] [UtilityProcess id: 1, type: extensionHost, pid: 20093]: successfully created
+2023-03-21 09:54:37.815 [info] [UtilityProcess id: 1, type: extensionHost, pid: 20093]: waiting to exit...
+2023-03-21 09:54:38.478 [error] Blocked vscode-file request vscode-file://vscode-app/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcess.js
+2023-03-21 09:54:40.607 [info] [UtilityProcess id: 1, type: extensionHost, pid: 20093]: received exit event with code 0
+2023-03-21 09:54:40.608 [info] Extension host with pid 20093 exited with code: 0, signal: unknown.

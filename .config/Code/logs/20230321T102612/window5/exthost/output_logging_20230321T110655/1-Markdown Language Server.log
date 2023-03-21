@@ -1,0 +1,12 @@
+[Trace 11:07:03.910] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jamessearle71/Projects/reading-notes-v1/reading-notes-v1/README.md
+[Trace 11:07:03.925] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes-v1/reading-notes-v1/README.md
+[Trace 11:07:03.956] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes-v1/reading-notes-v1/README.md
+[Trace 11:07:03.956] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes-v1/reading-notes-v1/code-102/102class-01.md
+[Trace 11:07:03.957] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes-v1/reading-notes-v1/code-102/102class-02.md
+[Trace 11:07:04.505] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes-v1/reading-notes-v1/README.md
+[Trace 11:07:05.323] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes-v1/reading-notes-v1/code-102/102class-01.md
+[Trace 11:07:05.537] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes-v1/reading-notes-v1/code-102/102class-02.md
+[Debug 11:07:07.117] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes-v1/reading-notes-v1/README.md
+[Debug 11:07:09.337] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes-v1/reading-notes-v1/README.md 1
+[Debug 11:07:09.337] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes-v1/reading-notes-v1/README.md
+[Trace 11:07:20.862] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes-v1/reading-notes-v1/README.md 1

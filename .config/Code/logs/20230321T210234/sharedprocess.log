@@ -1,0 +1,9 @@
+2023-03-21 21:02:56.633 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-21 21:03:00.574 [error] ptyHost was unable to resolve shell environment {}
+2023-03-21 21:03:05.553 [info] Starting worker process with pid 2175 (type: fileWatcher, window: 1).
+2023-03-21 21:03:05.586 [info] Starting worker process with pid 2177 (type: fileWatcher, window: 2).
+2023-03-21 21:03:33.507 [info] Worker process with pid 2177 terminated normally (type: fileWatcher, window: 2).
+2023-03-21 21:03:40.465 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-03-21 21:03:40.468 [info] Worker process with pid 2175 terminated normally (type: fileWatcher, window: 1).
+2023-03-21 21:03:40.502 [info] Starting worker process with pid 2369 (type: fileWatcher, window: 1).
+2023-03-21 21:03:46.294 [info] Starting worker process with pid 2499 (type: fileWatcher, window: 2).

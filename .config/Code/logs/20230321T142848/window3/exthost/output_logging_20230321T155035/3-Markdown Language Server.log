@@ -8,3 +8,4 @@
 [Trace 16:26:00.263] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Wireframe/wireframe-demo/README.md 1
 [Debug 16:26:07.280] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Wireframe/wireframe-demo/README.md 1
 [Debug 16:26:07.324] TableOfContentsProvider: create - file:///home/jamessearle71/Wireframe/wireframe-demo/README.md
+[Trace 18:47:41.127] VsCodeClientWorkspace: onDidChangeWatchedFiles: 3: file:///home/jamessearle71/Wireframe/wireframe-demo/README.md

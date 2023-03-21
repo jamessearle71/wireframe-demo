@@ -1,0 +1,4 @@
+2023-03-21 21:03:25.221 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/jamessearle71/Wireframe/index.html 
+2023-03-21 21:03:25.778 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2023-03-21 21:03:31.577 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage
+2023-03-21 21:04:18.343 [info] [perf] Render performance baseline is 594ms

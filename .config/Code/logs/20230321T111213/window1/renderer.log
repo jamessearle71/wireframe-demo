@@ -1,6 +1,0 @@
-2023-03-21 11:13:42.902 [info] [perf] Render performance baseline is 459ms
-2023-03-21 13:27:26.544 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}
-2023-03-21 13:29:46.483 [info] UNRESPONSIVE extension host: starting to profile NOW
-2023-03-21 13:29:46.514 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
-2023-03-21 13:32:48.156 [info] UNRESPONSIVE extension host: starting to profile NOW
-2023-03-21 13:32:48.200 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session

@@ -1,4 +1,0 @@
-2023-03-21 14:14:40.275 [warning] No ptyHost heartbeat after 6 seconds
-2023-03-21 14:14:46.467 [error] ptyHost was unable to resolve shell environment {}
-2023-03-21 14:14:47.971 [error] No ptyHost heartbeat after 12 seconds
-2023-03-21 14:14:57.036 [info] Starting worker process with pid 2024 (type: fileWatcher, window: 1).

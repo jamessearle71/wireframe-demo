@@ -7,12 +7,14 @@
             "file:///home/jamessearle71/demos": "__default__profile__",
             "file:///home/jamessearle71/Projects/reading-notes-v1": "__default__profile__",
             "file:///home/jamessearle71/Projects2/reading-notes": "__default__profile__",
-            "file:///home/jamessearle71/Projects/reading-notes": "__default__profile__",
-            "file:///home/jamessearle71/Wireframe": "__default__profile__"
+            "file:///home/jamessearle71/Wireframe": "__default__profile__",
+            "file:///home/jamessearle71/Projects2": "__default__profile__",
+            "file:///home/jamessearle71/reading-notes": "__default__profile__",
+            "file:///home/jamessearle71/Projects": "__default__profile__",
+            "file:///home/jamessearle71/Projects/reading-notes": "__default__profile__"
         },
         "emptyWindows": {
-            "1679416022761": "__default__profile__",
-            "1679422516245": "__default__profile__"
+            "1679432556490": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -21,36 +23,34 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/jamessearle71/Projects/reading-notes"
+                "folderUri": "file:///home/jamessearle71/Projects"
             },
             {
-                "folderUri": "file:///home/jamessearle71/Wireframe"
+                "folderUri": "file:///home/jamessearle71/Projects/reading-notes"
             }
         ],
         "emptyWindows": [
             {
-                "backupFolder": "1679416022761"
-            },
-            {
-                "backupFolder": "1679422516245"
+                "backupFolder": "1679432556490"
             }
         ]
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/jamessearle71/.config/Code/Backups/1679422516245",
+            "folder": "file:///home/jamessearle71/Projects",
+            "backupPath": "/home/jamessearle71/.config/Code/Backups/9756d9ef9de3a2eba886068f68e0e878",
             "uiState": {
                 "mode": 1,
-                "x": 256,
-                "y": 48,
-                "width": 1024,
-                "height": 768
+                "x": 396,
+                "y": 16,
+                "width": 744,
+                "height": 832
             }
         },
         "openedWindows": [
             {
-                "folder": "file:///home/jamessearle71/Wireframe",
-                "backupPath": "/home/jamessearle71/.config/Code/Backups/0bbadf82754cf0d525d3529fed236334",
+                "folder": "file:///home/jamessearle71/Projects",
+                "backupPath": "/home/jamessearle71/.config/Code/Backups/9756d9ef9de3a2eba886068f68e0e878",
                 "uiState": {
                     "mode": 1,
                     "x": 396,
@@ -60,13 +60,14 @@
                 }
             },
             {
-                "backupPath": "/home/jamessearle71/.config/Code/Backups/1679422516245",
+                "folder": "file:///home/jamessearle71/Projects/reading-notes",
+                "backupPath": "/home/jamessearle71/.config/Code/Backups/3cab1608558bbe829082d86de3917c56",
                 "uiState": {
                     "mode": 1,
-                    "x": 256,
-                    "y": 48,
-                    "width": 1024,
-                    "height": 768
+                    "x": 24,
+                    "y": 16,
+                    "width": 1488,
+                    "height": 832
                 }
             }
         ]
@@ -109,22 +110,10 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/jamessearle71/Wireframe",
-                                        "path": "/home/jamessearle71/Wireframe",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Wireframe"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -136,6 +125,39 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Projects/reading-notes"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jamessearle71/reading-notes",
+                                        "path": "/home/jamessearle71/reading-notes",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/reading-notes"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jamessearle71/Projects2",
+                                        "path": "/home/jamessearle71/Projects2",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects2"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jamessearle71/Projects",
+                                        "path": "/home/jamessearle71/Projects",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -172,6 +194,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jamessearle71/Projects/reading-notes/README.md",
+                                        "path": "/home/jamessearle71/Projects/reading-notes/README.md",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/reading-notes/README.md"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -252,6 +285,13 @@
                         "submenu": {
                             "items": [
                                 {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
                                 },
@@ -318,10 +358,6 @@
                                     }
                                 },
                                 {
-                                    "id": "workbench.userDataSync.actions.turnOn",
-                                    "label": "Turn on Settings Sync..."
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -380,6 +416,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -594,8 +634,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel",
-                                    "checked": true
+                                    "label": "&&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1149,7 +1188,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1344,6 +1384,11 @@
             "workbench.action.closeActiveEditor": {
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
+            },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",

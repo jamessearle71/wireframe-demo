@@ -13,3 +13,20 @@
 2023-03-21 16:29:43.327 [info] Worker process with pid 8642 terminated normally (type: fileWatcher, window: 4).
 2023-03-21 18:04:05.757 [warning] No ptyHost heartbeat after 6 seconds
 2023-03-21 18:15:22.839 [info] Starting worker process with pid 9450 (type: fileWatcher, window: 5).
+2023-03-21 18:18:12.935 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-21 18:20:48.414 [info] Worker process with pid 9450 terminated normally (type: fileWatcher, window: 5).
+2023-03-21 18:21:05.940 [info] Starting worker process with pid 10160 (type: fileWatcher, window: 6).
+2023-03-21 18:21:32.810 [info] Worker process with pid 10160 terminated normally (type: fileWatcher, window: 6).
+2023-03-21 18:21:35.051 [info] Starting worker process with pid 10195 (type: fileWatcher, window: 6).
+2023-03-21 18:35:38.746 [info] Worker process with pid 10195 terminated normally (type: fileWatcher, window: 6).
+2023-03-21 18:37:13.838 [info] Starting worker process with pid 12905 (type: fileWatcher, window: 7).
+2023-03-21 18:38:03.720 [info] Worker process with pid 12905 terminated normally (type: fileWatcher, window: 7).
+2023-03-21 18:38:13.514 [info] Starting worker process with pid 13028 (type: fileWatcher, window: 8).
+2023-03-21 18:38:34.147 [info] Worker process with pid 13028 terminated normally (type: fileWatcher, window: 8).
+2023-03-21 18:38:43.244 [info] Starting worker process with pid 13080 (type: fileWatcher, window: 8).
+2023-03-21 18:54:53.931 [info] Starting worker process with pid 16636 (type: fileWatcher, window: 9).
+2023-03-21 18:55:36.183 [info] Worker process with pid 16636 terminated normally (type: fileWatcher, window: 9).
+2023-03-21 19:19:59.801 [info] Starting worker process with pid 21521 (type: fileWatcher, window: 10).
+2023-03-21 19:22:49.099 [info] Worker process with pid 21521 terminated normally (type: fileWatcher, window: 10).
+2023-03-21 19:25:02.149 [info] Worker process with pid 13080 terminated normally (type: fileWatcher, window: 8).
+2023-03-21 20:12:14.644 [warning] No ptyHost heartbeat after 6 seconds

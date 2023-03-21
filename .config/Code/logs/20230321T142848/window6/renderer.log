@@ -1,0 +1,10 @@
+2023-03-21 18:21:16.146 [info] [perf] Render performance baseline is 272ms
+2023-03-21 18:21:43.399 [error] Git error
+2023-03-21 18:21:53.960 [info] [perf] Render performance baseline is 334ms
+2023-03-21 18:22:00.006 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 18:22:02.063 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 18:22:03.583 [warning] UNRESPONSIVE extension host: 'vscode-icons-team.vscode-icons' took 17.059384475337538% of 354.566ms, saved PROFILE here: 'file:///tmp/exthost-4b1c43.cpuprofile'
+2023-03-21 18:22:18.070 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 18:22:18.210 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-21 18:22:25.467 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-21 18:22:25.484 [info] UNRESPONSIVE extension host: starting to profile NOW

@@ -23,4 +23,34 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/jamessearle71/Projects" added="2023-03-21T18:21:32.487999Z" modified="2023-03-21T18:21:32.488042Z" visited="2023-03-21T18:21:32.488002Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-21T18:21:32.488006Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jamessearle71/Projects/reading-notes/README.md" added="2023-03-21T18:37:43.350442Z" modified="2023-03-21T18:37:43.350508Z" visited="2023-03-21T18:37:43.350444Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-21T18:37:43.350451Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jamessearle71/Projects/reading-notes" added="2023-03-21T21:03:19.312955Z" modified="2023-03-21T21:03:19.317361Z" visited="2023-03-21T21:03:19.312956Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-21T21:03:19.312961Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

@@ -1,0 +1,18 @@
+[Trace 21:03:26.989] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 21:03:26.998] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 21:03:27.022] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Debug 21:03:31.716] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Debug 21:03:32.885] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 1
+[Debug 21:03:32.886] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 21:03:32.946] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 21:03:46.195] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 1
+[Trace 21:05:40.426] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 21:06:05.952] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Debug 21:06:12.511] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 1
+[Trace 21:06:32.896] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 21:07:54.484] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Debug 21:07:57.669] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 1
+[Trace 21:08:05.946] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 21:08:15.378] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Debug 21:08:17.678] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 1
+[Trace 21:11:16.581] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md

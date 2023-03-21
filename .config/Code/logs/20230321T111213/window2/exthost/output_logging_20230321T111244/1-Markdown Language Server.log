@@ -1,8 +1,0 @@
-[Trace 11:12:58.238] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jamessearle71/Projects2/reading-notes/README.md
-[Trace 11:12:58.242] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects2/reading-notes/README.md
-[Trace 11:12:58.256] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects2/reading-notes/README.md
-[Trace 11:12:58.492] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects2/reading-notes/README.md
-[Debug 11:12:59.941] LinkProvider: compute - file:///home/jamessearle71/Projects2/reading-notes/README.md
-[Debug 11:13:01.845] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects2/reading-notes/README.md 1
-[Debug 11:13:01.876] TableOfContentsProvider: create - file:///home/jamessearle71/Projects2/reading-notes/README.md
-[Trace 11:13:31.215] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects2/reading-notes/README.md 1

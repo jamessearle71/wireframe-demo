@@ -1,4 +1,0 @@
-2023-03-21 14:15:00.499 [info] The pty host became responsive again
-2023-03-21 14:15:51.340 [info] [perf] Render performance baseline is 360ms
-2023-03-21 14:18:18.909 [warning] [backup tracker] suspended, ignoring content change event git:/home/jamessearle71/Projects/reading-notes/code-102/102class-03.md.git?%7B%22path%22%3A%22%2Fhome%2Fjamessearle71%2FProjects%2Freading-notes%2Fcode-102%2F102class-03.md%22%2C%22ref%22%3A%22%22%7D 
-2023-03-21 14:18:18.929 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage, join.workingCopyHistory

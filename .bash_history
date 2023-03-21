@@ -294,3 +294,68 @@ git push
 touch index.html 
 touch index.html
 git add . 
+add . 
+git add . 
+touch html.index
+git add . 
+git commit -m "update, new wireframe"
+git push
+git remote add wireframe-demo https://github.com/jamessearle71/wireframe-demo
+git status
+git add . index.html
+git status
+git commit -m "update, new wireframe"
+git push
+git remote add wireframe-demo git@github.com:jamessearle71/wireframe-demo.git
+git remote add wireframe-demo-1 git@github.com:jamessearle71/wireframe-demo.git
+git remote -v
+git push
+git push wireframe-demo-1
+git push --set-upstream wireframe-demo-1 master
+git push
+git add . 
+git commit -m "update completed read 04"
+git add . 
+git commit -m "completed reading task 04"
+git push
+git add . 
+git commit m-"completed reading 04"
+git commit m- "completed reading 04
+git add .
+git commit -m "completed reading 04"
+git add . 
+git commit m- "completed reading 04"
+git commit -m "completed reading"
+git push
+git add .
+git commit -m "completed reading task"
+git add 102class-03md
+git add reading-notes/code-102/102class-03.md
+git push
+git add . 
+git commit -m "new html file and reading 04 answers"
+git push
+git add .
+git commit -m "completed reading 04 and created html"
+git push 
+git push
+git add . 
+git commit m- "completed reading 04 and html"
+git add . 
+git commit -m "completed reading"
+git push
+cd ~/.ssh
+ls
+config id_rsa.pub
+ssh-keygen
+git add . 
+git commit -m "new html and class notes"
+git add , 
+git add . 
+git commit -m"upload"
+cd.. 
+git cd.. 
+cd.. 
+cd. 
+git checkout 0d1d7fc32
+git reset --hard 0d1d7fc32

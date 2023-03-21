@@ -1,0 +1,10 @@
+[Trace 19:20:31.374] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jamessearle71/reading-notes/code-102/102class-04.md
+[Trace 19:20:31.383] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/reading-notes/code-102/102class-04.md
+[Trace 19:20:31.413] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/reading-notes/code-102/102class-04.md
+[Trace 19:20:31.450] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/reading-notes/code-102/102class-04.md
+[Debug 19:20:34.099] LinkProvider: compute - file:///home/jamessearle71/reading-notes/code-102/102class-04.md
+[Debug 19:20:34.675] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/reading-notes/code-102/102class-04.md 1
+[Debug 19:20:34.727] TableOfContentsProvider: create - file:///home/jamessearle71/reading-notes/code-102/102class-04.md
+[Trace 19:20:49.003] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/reading-notes/code-102/102class-04.md 1
+[Trace 19:21:35.719] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/jamessearle71/reading-notes/code-102/102class-04.md
+[Trace 19:21:35.720] VsCodeClientWorkspace: deleteDocument: file:///home/jamessearle71/reading-notes/code-102/102class-04.md

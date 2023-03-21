@@ -1,0 +1,17 @@
+2023-03-21 18:37:31.708 [info] Log level: Info
+2023-03-21 18:37:31.708 [info] Validating found git in: "git"
+2023-03-21 18:37:31.709 [info] Using git "2.30.2" from "git"
+2023-03-21 18:37:45.132 [info] > git rev-parse --show-toplevel [71ms]
+2023-03-21 18:38:00.732 [info] > git rev-parse --show-toplevel [39ms]
+2023-03-21 18:38:00.784 [info] > git rev-parse --git-dir --git-common-dir [17ms]
+2023-03-21 18:38:00.910 [info] Open repository: /home/jamessearle71/Projects/reading-notes
+2023-03-21 18:38:01.113 [info] > git config --get commit.template [51ms]
+2023-03-21 18:38:01.322 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [41ms]
+2023-03-21 18:38:01.487 [info] > git status -z -uall [23ms]
+2023-03-21 18:38:01.646 [info] > git config --get commit.template [32ms]
+2023-03-21 18:38:01.751 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [57ms]
+2023-03-21 18:38:01.831 [info] > git status -z -uall [13ms]
+2023-03-21 18:38:02.018 [info] > git show --textconv :README.md [100ms]
+2023-03-21 18:38:02.018 [info] > git ls-files --stage -- /home/jamessearle71/Projects/reading-notes/README.md [15ms]
+2023-03-21 18:38:02.133 [info] > git cat-file -s 85c8b6ad69fdd1ce3cc408e833dabb38f01ee356 [72ms]
+2023-03-21 18:38:02.142 [info] > git check-ignore -v -z --stdin [11ms]

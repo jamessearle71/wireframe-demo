@@ -1,0 +1,1406 @@
+2023-03-21 18:38:18.241 [info] Extension host with pid 13029 started
+2023-03-21 18:38:19.324 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-21 18:38:19.479 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-21 18:38:19.498 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2023-03-21 18:38:23.027 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-21 18:38:23.330 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-21 18:38:24.176 [info] Eager extensions activated
+2023-03-21 18:38:24.502 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 18:38:24.518 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 18:38:24.598 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 18:38:24.684 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 18:38:28.311 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2023-03-21 18:38:28.496 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 18:38:28.567 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 18:38:28.585 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 18:38:29.567 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-03-21 18:38:30.392 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 18:38:31.587 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-03-21 18:38:34.142 [info] Extension host terminating: renderer closed the MessagePort
+2023-03-21 18:38:34.207 [info] Extension host with pid 13029 exiting with code 0
+2023-03-21 18:38:42.231 [info] Extension host with pid 13062 started
+2023-03-21 18:38:42.231 [info] Skipping acquiring lock for /home/jamessearle71/.config/Code/User/workspaceStorage/57d18c9a81575ad44816eaa4d8c1a546.
+2023-03-21 18:38:45.609 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-21 18:38:45.717 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-03-21 18:38:45.965 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-21 18:38:46.003 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2023-03-21 18:38:47.733 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-03-21 18:38:47.832 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-03-21 18:38:49.119 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-21 18:38:49.594 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-21 18:38:53.813 [info] Eager extensions activated
+2023-03-21 18:38:55.835 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 18:38:55.889 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 18:38:56.114 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 18:38:56.227 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 18:38:59.324 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2023-03-21 18:38:59.381 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 18:38:59.409 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 18:38:59.439 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 18:39:04.554 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-03-21 18:39:08.817 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 18:39:12.576 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-03-21 18:39:15.241 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-03-21 18:49:44.320 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+2023-03-21 19:09:58.925 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:09:58.933 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:06.614 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:06.616 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:07.009 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:07.010 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:07.623 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:07.625 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:08.151 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:08.152 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:08.290 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:08.292 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:08.592 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:08.593 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:09.120 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:09.121 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:09.500 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:09.501 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:11.195 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:11.196 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:11.831 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:11.833 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:11.944 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:11.948 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:13.310 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:13.310 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:13.829 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:13.832 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:13.916 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:13.918 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:14.033 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:14.034 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:14.377 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:14.380 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:15.476 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:15.480 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:16.088 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:16.090 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:16.684 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:16.685 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:16.793 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:16.794 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:17.134 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:17.135 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:17.626 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:17.629 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:18.122 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:18.123 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:22.308 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:22.310 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:22.654 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:22.655 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:22.823 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:22.824 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:22.978 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:22.984 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:26.786 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:26.787 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:29.433 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:29.435 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:30.070 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:30.073 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:30.286 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:30.299 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:30.379 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:30.380 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:35.031 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:35.032 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:40.268 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:40.270 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:44.978 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:44.979 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:10:46.312 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:10:46.313 [error] Error: Unable to find matching pair for < at char 658
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:12:12.297 [error] [vscode.emmet] provider FAILED
+2023-03-21 19:12:12.298 [error] Error: Unable to find matching pair for < at char 634
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at Y.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+	at ce.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+	at ce.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14682)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-03-21 19:25:01.926 [info] Extension host terminating: renderer closed the MessagePort
+2023-03-21 19:25:02.115 [error] Canceled: Canceled
+	at new l (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88793)
+	at a.O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11260)
+	at V.<computed>.Q.charCodeAt.V.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8550)
+	at c.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:108198)
+	at c.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at N.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106867)
+	at c.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:108784)
+	at c.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107674)
+	at c.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:30781)
+	at D (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1467127)
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1481856)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:1485923
+	at Array.forEach (<anonymous>)
+	at g.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1485909)
+	at C.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:12431)
+	at C.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at C.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1469257)
+	at C.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at k (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12074)
+	at f.X (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11284)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9088
+	at Array.map (<anonymous>)
+	at f.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9075)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9347)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:18592)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14731)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364) setContext undefined
+2023-03-21 19:25:02.116 [error] Canceled: Canceled
+	at new l (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88793)
+	at a.O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11260)
+	at V.<computed>.Q.charCodeAt.V.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8550)
+	at c.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:108198)
+	at c.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at N.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106867)
+	at c.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:108784)
+	at c.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107674)
+	at c.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:30781)
+	at D (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1467127)
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1481856)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:1485923
+	at Array.forEach (<anonymous>)
+	at g.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1485909)
+	at C.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:12431)
+	at C.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at C.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1469257)
+	at C.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at k (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12074)
+	at f.X (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11284)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9088
+	at Array.map (<anonymous>)
+	at f.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9075)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9347)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:18592)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14731)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364) setContext undefined
+2023-03-21 19:25:02.160 [info] Extension host with pid 13062 exiting with code 0

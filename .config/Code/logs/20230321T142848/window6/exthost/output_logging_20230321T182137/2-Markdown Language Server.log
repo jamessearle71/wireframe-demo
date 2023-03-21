@@ -1,0 +1,36 @@
+[Trace 18:22:00.501] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 18:22:00.502] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 18:22:00.519] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 18:22:01.025] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 18:22:02.012] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 1
+[Debug 18:22:02.013] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Debug 18:22:02.424] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 1
+[Debug 18:22:02.425] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 18:22:18.208] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 18:22:18.208] VsCodeClientWorkspace: deleteDocument: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 18:25:00.338] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 18:25:00.604] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 18:25:00.650] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 18:25:00.654] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 18:25:00.682] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 18:25:00.710] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Debug 18:25:00.752] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 18:25:00.753] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md 1
+[Debug 18:25:00.788] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Debug 18:25:01.292] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md 1
+[Trace 18:25:01.906] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 18:25:01.977] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 18:25:01.977] VsCodeClientWorkspace: deleteDocument: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-02.md
+[Trace 18:25:02.142] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 18:25:02.142] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 18:25:02.142] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 18:25:02.162] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 18:25:02.207] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Debug 18:25:02.232] LinkProvider: compute - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 18:25:02.234] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 1
+[Debug 18:25:02.252] TableOfContentsProvider: create - file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Debug 18:25:02.651] MdFoldingProvider: provideFoldingRanges — file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md 1
+[Trace 18:25:04.891] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 18:33:42.563] Server: connection.languages.diagnostics.on: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 18:33:42.723] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md
+[Trace 18:33:42.730] VsCodeClientWorkspace: deleteDocument: file:///home/jamessearle71/Projects/reading-notes/code-102/102class-03.md

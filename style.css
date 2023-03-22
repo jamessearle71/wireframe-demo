@@ -1,0 +1,98 @@
+/* this was the first css rule I learned in class */
+
+*
+
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #B4E4FF;
+    color: rgba(16, 21, 24, 0.584);
+}
+a {
+    text-decoration: underline;
+}
+
+header {
+    background-color: rgb(224, 206, 209);
+}
+
+h1 {
+    color: rgb(35, 146, 171);
+    text-shadow: 2px 2px 2px whitesmoke;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color:rgba(16, 21, 24, 0.584);
+}
+
+nav li{
+    display: inline;
+    margin-right: 20px;
+}
+
+nav li a {
+    color: darkgray;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+nav li a:hover{
+color: teal;
+text-decoration: underline;
+font-size: 22px;
+}
+
+main{
+    width: 960px;
+    margin: 30px auto; 
+}
+
+#hero {
+    width: 960px;
+}
+
+#hero:hover {border-radius: 20px;
+    border: 3px solid teal;
+}
+
+#doggles-1:hover {border-radius: 20px;
+    border: 3px solid teal;
+}
+
+#doggles-2:hover {border-radius: 20px;
+    border: 3px solid teal;
+}
+
+#doggles-3:hover {border-radius: 20px;
+    border: 3px solid teal;
+}
+
+main p{
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.lower {
+    display: inline-block;
+    max-width: 30%;
+    margin: 10px;
+    text-align: center;
+}
+
+footer {text-align: center;
+}
+
+footer p {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color:rgb(35, 146, 171, 0.7)
+}
